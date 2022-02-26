@@ -194,7 +194,7 @@ public class Converter implements DatesToCronConverter{
     @Override
     public String getImplementationInfo(){
     return "Боярченко Владислав Денисович " + getClass().getSimpleName() + " " + getClass().getPackage().getName()
-                + " " + " https://github.com/he4to3/DatesToCronConverter";
+                + " " + " https://github.com/he4to3/DateCron";
 }
 
 }
